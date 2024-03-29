@@ -13,3 +13,6 @@
 
 # 3.) Sports Ranking Project: 
 https://colab.research.google.com/gist/WillLund11/4d5f9fcb6351a5994e50e1a01db97ac2/copy-of-sports-teams-rankings.ipynb
+
+# 4.) Gram Schmidt Process:
+https://colab.research.google.com/gist/WillLund11/788d24dc8f467cc3f44739f9459e67d4/untitled4.ipynb
